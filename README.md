@@ -24,7 +24,7 @@
 Important Information for EDA:
 9.	Histograms or Box-plots for continuous numeric data when doing univariate analysis
 10.	Bar plots for categorical data when doing univariate analysis
-11.	Scatter plots and correlation heatmaps for bivariate or multi-variate analysis among multiple numeric variables (use facets or hues if adding categories)![image](https://user-images.githubusercontent.com/52736275/185713969-abd3447b-93ba-4fe2-ad5d-c10d5ac674af.png)
+11.	Scatter plots and correlation heatmaps for bivariate or multi-variate analysis among multiple numeric variables (use facets or hues if adding categories)
 
 
 
