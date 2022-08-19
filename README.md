@@ -20,3 +20,5 @@
 # Feature Selection
 # Model Building
 # Model Deployment
+
+Important Information for EDA:
